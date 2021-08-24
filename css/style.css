@@ -1,0 +1,40 @@
+body{
+    font-family: 'Roboto', sans-serif;
+}
+
+h1{
+    font-size: xx-large;
+    background-color: #39A2DB;
+    margin-bottom: 5%;
+    color: white;
+    text-align: center;
+    
+}
+
+.fram{
+    border: 3px;
+    border-style: dashed;
+    border-color: blue;
+    width: 30%;
+    
+    
+
+}
+
+table {
+    border-collapse: collapse;
+    width: 40%;
+  }
+  th, td {
+    padding: 8px;
+    text-align: left;
+    border-bottom: 1px solid #ddd;
+  } 
+  
+  table,th,td{
+    margin-left: auto;
+    margin-right: auto;
+    background-color: #A2DBFA;
+  
+  }
+
